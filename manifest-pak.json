@@ -1,5 +1,15 @@
 {
   "schemaVersion": 1,
-  "packVersion": "1.0.0",
-  "mods": []
+  "packVersion": "1.0.1",
+  "mods": [
+    {
+      "id": "SCUM_PakProbe",
+      "name": "SCUM Pak Probe",
+      "enabled": true,
+      "version": "0.1.0",
+      "fileName": "SCUM_PakProbe_P.pak",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/SCUM_PakProbe_P.pak",
+      "sha256": "DEIN_ECHTER_HASH"
+    }
+  ]
 }
