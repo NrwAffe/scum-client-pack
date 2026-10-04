@@ -11,7 +11,7 @@
     "name": "UE4SS",
     "enabled": true,
     "version": "3.0.1-1152-ge3ba1016",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
+    "url": "https://github.com/NrwAffe/scum-client-pack/blob/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
     "sha256": "AF8EA9D8975E8EFF7967423F43B8B50875E66A29A0F434CFFCE6E0867EA17252",
     "destination": "SCUM\\Binaries\\Win64",
     "requiredFiles": [
