@@ -10,9 +10,9 @@
     "id": "UE4SS",
     "name": "UE4SS",
     "enabled": true,
-    "version": "3.0.1-1152-ge3ba1016",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
-    "sha256": "AF8EA9D8975E8EFF7967423F43B8B50875E66A29A0F434CFFCE6E0867EA17252",
+    "version": "3.0.1-451-g3535e4f",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS%20v3.0.1-451-g3535e4f-35-1-18-0-1755203956.zip",
+    "sha256": "9F78AD0DE2BE4B90E8D8437457D9F8363316BFB762D61ACD8E05AAAC75561AEF",
     "destination": "SCUM\\Binaries\\Win64",
     "requiredFiles": [
       "dwmapi.dll"
@@ -26,7 +26,7 @@
       "version": "0.1.1",
       "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/SCUM_HideOwnMapMarker_UE4SS_v0.1.1-flat-fixed.zip",
       "sha256": "46347E2716E6A2C6F4D7852F4F62525179DA45F24109115D71705B7C5B8A0DEE",
-      "destination": "SCUM\\Binaries\\Win64\\Mods\\HideOwnMapMarker",
+      "destination": "SCUM\\Binaries\\Win64\\ue4ss\\Mods\\HideOwnMapMarker",
       "requiredFiles": [
         "Scripts\\main.lua"
       ]
