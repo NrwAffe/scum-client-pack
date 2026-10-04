@@ -10,8 +10,8 @@
     "id": "UE4SS",
     "name": "UE4SS",
     "enabled": true,
-    "version": "PUT_YOUR_TESTED_VERSION_HERE",
-    "url": "https://YOUR-DOMAIN.example/scum/packages/UE4SS.zip",
+    "version": "3.0.1-1152-ge3ba1016",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
     "sha256": "PUT_SHA256_OF_UE4SS_ZIP_HERE",
     "destination": "SCUM\\Binaries\\Win64",
     "requiredFiles": [
