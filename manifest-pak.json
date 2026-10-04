@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packVersion": "1.0.1",
   "launcher": {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
     "sha256": "7053D132CFDC8303593F09BDF959CEAC0C33BE4A588DB8545D67F89319BF1C52"
   },
