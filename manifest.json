@@ -3,7 +3,7 @@
   "packVersion": "1.0.0",
   "launcher": {
     "version": "0.1.0",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
+    "url": "https://github.com/NrwAffe/scum-client-pack/blob/main/launcher/Launcher.ps1",
     "sha256": "50DC7F86F80BA827F2A274990F23CC2A03B109CBC7055368383EDCA356F5B3CE"
   },
   "ue4ss": {
