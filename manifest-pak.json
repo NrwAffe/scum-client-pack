@@ -8,13 +8,22 @@
   },
   "mods": [
     {
-      "id": "SCUM_PakProbe",
-      "name": "SCUM Pak Probe",
+      "id": "VoiceRadiusClient",
+      "name": "Voice Radius Visualizer",
       "enabled": true,
       "version": "0.1.0",
-      "fileName": "SCUM_PakProbe_P.pak",
-      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/package/SCUM_PakProbe_P.pak",
-      "sha256": "93D98EF378CC33C3211BDD96774468D240EF2A47C16ABE0EF5A8BDB1F3BEAF2C"
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/VoiceRadiusClient_v0.1.0.zip",
+      "sha256": "8600B07AA566E225C78059A644BEBD9B17F2D17F17C843ED0BCAEFBF2A928306",
+      "destination": "_clientmods\\VoiceRadiusClient",
+      "requiredFiles": [
+        "Scripts\\VoiceRadiusClient.ps1",
+        "Config\\config.json",
+        "START-VOICE-RADIUS-CLIENT.bat"
+      ],
+      "clientHelper": {
+        "executable": "START-VOICE-RADIUS-CLIENT.bat",
+        "startWithGame": true
+      }
     }
   ]
 }
