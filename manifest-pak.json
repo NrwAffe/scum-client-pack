@@ -1,6 +1,11 @@
 {
   "schemaVersion": 1,
   "packVersion": "1.0.1",
+  "launcher": {
+    "version": "0.1.2",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/SCUM-PAK-Launcher.ps1",
+    "sha256": "30761D3A5E91DE9841ED8E662ADBC25EFC60FE514396D0EC6CBC49C2056C4C50"
+  },
   "mods": [
     {
       "id": "SCUM_PakProbe",
