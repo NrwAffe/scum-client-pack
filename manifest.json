@@ -3,7 +3,7 @@
   "packVersion": "1.0.0",
   "launcher": {
     "version": "0.1.0",
-    "url": "https://github.com/NrwAffe/scum-client-pack/blob/main/launcher/Launcher.ps1",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
     "sha256": "50DC7F86F80BA827F2A274990F23CC2A03B109CBC7055368383EDCA356F5B3CE"
   },
   "ue4ss": {
@@ -11,7 +11,7 @@
     "name": "UE4SS",
     "enabled": true,
     "version": "3.0.1-1152-ge3ba1016",
-    "url": "https://github.com/NrwAffe/scum-client-pack/blob/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS_v3.0.1-1152-ge3ba1016.zip",
     "sha256": "AF8EA9D8975E8EFF7967423F43B8B50875E66A29A0F434CFFCE6E0867EA17252",
     "destination": "SCUM\\Binaries\\Win64",
     "requiredFiles": [
@@ -24,7 +24,7 @@
       "name": "Hide Own Map Marker",
       "enabled": true,
       "version": "0.1.0",
-      "url": "https://github.com/NrwAffe/scum-client-pack/blob/main/packages/SCUM_HideOwnMapMarker_UE4SS_v0.1.0-client-test.zip",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/SCUM_HideOwnMapMarker_UE4SS_v0.1.0-client-test.zip",
       "sha256": "0228F4E09C47404D5646FAEE03CEE4C698F132E7F234DF28F8087F1F2D2422C8",
       "destination": "SCUM\\Binaries\\Win64\\Mods\\HideOwnMapMarker",
       "requiredFiles": [
