@@ -4,7 +4,7 @@
   "launcher": {
     "version": "0.1.0",
     "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
-    "sha256": "PUT_SHA256_OF_Launcher.ps1_HERE"
+    "sha256": "50DC7F86F80BA827F2A274990F23CC2A03B109CBC7055368383EDCA356F5B3CE"
   },
   "ue4ss": {
     "id": "UE4SS",
