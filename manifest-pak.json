@@ -1,33 +1,5 @@
 {
   "schemaVersion": 1,
-  "packVersion": "1.0.2",
-  "launcher": {
-    "version": "0.1.3",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
-    "sha256": "E8108DA0658D3923763FE459537E3845C30B2BAAAEEC553C9FB3419DF2965EF9"
-  },
-  "ue4ss": {
-    "id": "UE4SS",
-    "name": "UE4SS",
-    "enabled": true,
-    "version": "3.0.1-451-g3535e4f",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/UE4SS%20v3.0.1-451-g3535e4f-35-1-18-0-1755203956.zip",
-    "sha256": "9F78AD0DE2BE4B90E8D8437457D9F8363316BFB762D61ACD8E05AAAC75561AEF",
-    "destination": "SCUM\\Binaries\\Win64",
-    "requiredFiles": [
-      "dwmapi.dll"
-    ]
-  },
-  "mods": [
-    {
-      "id": "HideOwnMapMarker",
-      "name": "Hide Own Map Marker",
-      "enabled": true,
-      "version": "1.0.0",
-      "fileName": "HideOwnMapMarker_P.pak",
-      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/packages/HideOwnMapMarker_P.pak",
-      "sha256": "<SHA256>"
-      ]
-    }
-  ]
+  "packVersion": "1.0.0",
+  "mods": []
 }
