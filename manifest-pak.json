@@ -3,7 +3,7 @@
   "packVersion": "1.0.1",
   "launcher": {
     "version": "0.1.2",
-    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/SCUM-PAK-Launcher.ps1",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
     "sha256": "954EE6B0B2D03E89AA0B58FC6DDAA8A0786CFFD9B6F18192005ECCE458A5FFFA"
   },
   "mods": [
