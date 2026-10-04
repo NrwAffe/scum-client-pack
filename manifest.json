@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "launcher": {
+    "version": "0.1.0",
+    "url": "https://YOUR-DOMAIN.example/scum/launcher/Launcher.ps1",
+    "sha256": "PUT_SHA256_OF_Launcher.ps1_HERE"
+  },
+  "ue4ss": {
+    "id": "UE4SS",
+    "name": "UE4SS",
+    "enabled": true,
+    "version": "PUT_YOUR_TESTED_VERSION_HERE",
+    "url": "https://YOUR-DOMAIN.example/scum/packages/UE4SS.zip",
+    "sha256": "PUT_SHA256_OF_UE4SS_ZIP_HERE",
+    "destination": "SCUM\\Binaries\\Win64",
+    "requiredFiles": [
+      "dwmapi.dll"
+    ]
+  },
+  "mods": [
+    {
+      "id": "HideOwnMapMarker",
+      "name": "Hide Own Map Marker",
+      "enabled": true,
+      "version": "0.1.0",
+      "url": "https://YOUR-DOMAIN.example/scum/packages/HideOwnMapMarker.zip",
+      "sha256": "PUT_SHA256_OF_MOD_ZIP_HERE",
+      "destination": "SCUM\\Binaries\\Win64\\Mods\\HideOwnMapMarker",
+      "requiredFiles": [
+        "Scripts\\main.lua"
+      ]
+    }
+  ]
+}
