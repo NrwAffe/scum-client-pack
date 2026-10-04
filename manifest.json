@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "packVersion": "1.0.2",
   "launcher": {
-  "version": "0.1.3",
-  "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
-  "sha256": "3E650CDBA95FF663A43F4A3185E76AB4F36619A40CF0A8495A40A231F71CC7A1"
-},
+    "version": "0.1.3",
+    "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/launcher/Launcher.ps1",
+    "sha256": "3E650CDBA95FF663A43F4A3185E76AB4F36619A40CF0A8495A40A231F71CC7A1"
+  },
   "ue4ss": {
     "id": "UE4SS",
     "name": "UE4SS",
@@ -19,7 +19,7 @@
     ]
   },
   "mods": [
-        {
+    {
       "id": "HideOwnMapMarker",
       "name": "Hide Own Map Marker",
       "enabled": true,
