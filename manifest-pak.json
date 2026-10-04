@@ -11,7 +11,7 @@
       "id": "VoiceRadiusClient",
       "name": "Voice Radius Visualizer",
       "enabled": true,
-      "version": "0.1.0",
+      "version": "0.2.2",
       "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/VoiceRadiusClient_v0.2.2.zip",
       "sha256": "A4586D631DD61CB406E1051BE0829439A443D73DE72C187A69D4C6EBBBB0E7F2",
       "destination": "_clientmods\\VoiceRadiusClient",
