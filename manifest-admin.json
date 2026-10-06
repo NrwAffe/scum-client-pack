@@ -2,21 +2,23 @@
   "schemaVersion": 1,
   "packVersion": "1.0.0",
   "mods": [
-{
-  "id": "SCUMAdminBot",
-  "name": "SCUM Admin Bot",
-  "enabled": true,
-  "version": "0.1.0",
-  "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/SCUM_AdminBot_v0.1.0.zip",
-  "sha256": "026AA9ED7D14F4AD416EA28D7C31330E740891793A3D6B37344B27DE33E826D1",
-  "destination": "_clientmods\\SCUMAdminBot",
-  "requiredFiles": [
-    "Scripts\\AdminBot.ps1",
-    "Config\\config.json",
-    "START-ADMINBOT.bat"
-  ],
-  "clientHelper": {
-    "executable": "START-ADMINBOT.bat",
-    "startWithGame": true
-  }
+    {
+      "id": "SCUMAdminBot",
+      "name": "SCUM Admin Bot",
+      "enabled": true,
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/SCUM_AdminBot_v0.1.0_PROBE.zip",
+      "sha256": "026AA9ED7D14F4AD416EA28D7C31330E740891793A3D6B37344B27DE33E826D1",
+      "destination": "_clientmods\\SCUMAdminBot",
+      "requiredFiles": [
+        "Scripts\\AdminBot.ps1",
+        "Config\\config.json",
+        "START-ADMINBOT.bat"
+      ],
+      "clientHelper": {
+        "executable": "START-ADMINBOT.bat",
+        "startWithGame": true
+      }
+    }
+  ]
 }
