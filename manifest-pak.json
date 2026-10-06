@@ -7,6 +7,24 @@
     "sha256": "7AC709283DF978B34D4E51DDFB64C3408F0D75F7AB736BCE68979007E2859292"
   },
   "mods": [
+      {
+      "id": "HideOwnMapMarker",
+      "name": "Hide Own Map Marker",
+      "enabled": true,
+      "version": "0.2.0",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/HideOwnMapMarker_v0.2.0.zip",
+      "sha256": "9337E4779B1CDB2E2BEEC8E591797F8DA5C0395B66B79EA8E77B3E07949EA332",
+      "destination": "_clientmods\\HideOwnMapMarker",
+      "requiredFiles": [
+        "Scripts\\HideOwnMapMarker.ps1",
+        "Config\\config.json",
+        "START-HIDEOWNMAP.vbs"
+      ],
+      "clientHelper": {
+        "executable": "START-HIDEOWNMAP.vbs",
+        "startWithGame": true
+    }
+  },
     {
       "id": "VoiceRadiusClient",
       "name": "Voice Radius Visualizer",
