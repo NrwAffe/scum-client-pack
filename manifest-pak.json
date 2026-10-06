@@ -25,6 +25,23 @@
       }
     },
     {
+      "id": "LauncherAuthClient",
+      "name": "Launcher Authentication Client",
+      "enabled": true,
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/LauncherAuthClient_v0.1.0.zip",
+      "sha256": "CD35FA268BD60914E05898CBE386EE59C5A35F0DE9B75C005449152F0E75F684",
+      "destination": "_clientmods\\LauncherAuthClient",
+      "requiredFiles": [
+        "Scripts\\LauncherAuthClient.ps1",
+        "Config\\config.json"
+      ],
+      "clientHelper": {
+        "executable": "Scripts\\LauncherAuthClient.ps1",
+        "startWithGame": true
+      }
+    },
+    {
       "id": "VoiceRadiusClient",
       "name": "Voice Radius Visualizer",
       "enabled": true,
