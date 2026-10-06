@@ -1,4 +1,8 @@
 {
+  "schemaVersion": 1,
+  "packVersion": "1.0.0",
+  "mods": [
+{
   "id": "SCUMAdminBot",
   "name": "SCUM Admin Bot",
   "enabled": true,
