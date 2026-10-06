@@ -13,7 +13,7 @@
       "enabled": true,
       "version": "0.2.4",
       "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/HideOwnMapMarker_v0.2.4.zip",
-      "sha256": "13DFC73353EEB1E843E8A642013A0F4C487624AF517F7B66AC52E8AAB361A4A4",
+      "sha256": "3D84D1DF30D0031A0DBF8AEF07F83CFF422DE03AFECCE2C4D26AAFD83FE3DA37",
       "destination": "_clientmods\\HideOwnMapMarker",
       "requiredFiles": [
         "Scripts\\HideOwnMapMarker.ps1",
