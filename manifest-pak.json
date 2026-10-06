@@ -23,8 +23,8 @@
       "clientHelper": {
         "executable": "START-HIDEOWNMAP.vbs",
         "startWithGame": true
-    }
-  },
+      }
+    },
     {
       "id": "VoiceRadiusClient",
       "name": "Voice Radius Visualizer",
