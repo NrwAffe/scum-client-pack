@@ -11,9 +11,9 @@
       "id": "HideOwnMapMarker",
       "name": "Hide Own Map Marker",
       "enabled": true,
-      "version": "0.2.1",
-      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/HideOwnMapMarker_v0.2.1.zip",
-      "sha256": "E71D3354338E5670B336A5FAEBD5B7B2E751A5F49254AA40E054CBFFADE6DF8D",
+      "version": "0.2.2",
+      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/HideOwnMapMarker_v0.2.2.zip",
+      "sha256": "124CE9CDA9ED467D24C02F4B8FBAD6C483ADD3CBCC30F069BE04AA689651AF75",
       "destination": "_clientmods\\HideOwnMapMarker",
       "requiredFiles": [
         "Scripts\\HideOwnMapMarker.ps1",
