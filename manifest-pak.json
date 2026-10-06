@@ -21,7 +21,7 @@
         "START-HIDEOWNMAP.vbs"
       ],
       "clientHelper": {
-        "executable": "START-HIDEOWNMAP.vbs",
+        "executable": "Scripts\\HideOwnMapMarker.ps1",
         "startWithGame": true
       }
     },
