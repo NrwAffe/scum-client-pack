@@ -1,24 +1,5 @@
 {
   "schemaVersion": 1,
   "packVersion": "1.0.0",
-  "mods": [
-    {
-      "id": "SCUMAdminBot",
-      "name": "SCUM Admin Bot",
-      "enabled": true,
-      "version": "0.1.1",
-      "url": "https://raw.githubusercontent.com/NrwAffe/scum-client-pack/main/client-packages/SCUM_AdminBot_v0.1.1.zip",
-      "sha256": "C01BA763A5BB8C9C686CC4966413EA568E647A95704C33F14C47048C02A23036",
-      "destination": "_clientmods\\SCUMAdminBot",
-      "requiredFiles": [
-        "Scripts\\AdminBot.ps1",
-        "Config\\config.json",
-        "START-ADMINBOT.bat"
-      ],
-      "clientHelper": {
-        "executable": "START-ADMINBOT.bat",
-        "startWithGame": true
-      }
-    }
-  ]
+  "mods": []
 }
